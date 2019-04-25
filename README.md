@@ -13,3 +13,8 @@ Future versions will (hopefully) include:
 2. Examples of optimizing nerual networks using PyTorch
 3. Examples of optimizing nerual networks using Tensorflow
 
+
+Enjoy!
+
+For questions and comments feel free to contact Benjy at:
+benjybo7@gmail.com
