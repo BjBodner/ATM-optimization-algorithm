@@ -1,2 +1,15 @@
 # ATM-optimization-algorithm
-Optimization Algorithm for high dimensional problems
+This is an optimization algorithm for high dimensional problems.
+
+It is designed for minimizing functions which input a vector or parameters and output a single scalar value.
+Examples of how to use call the optimizer are in the file titled " Example_Of_Calling_Adaptive_To_Mode_Optimizer.py".
+We invite users to try to use this optimizer on different optimization problems and find as many issues as you can. This will help us improve the optimizer in future versions.
+
+
+
+Future versions will (hopefully) include:
+1. More customization: ability to set the number of iterations, set a threshold for convergence, number of parallelized function evaluations and more..
+2. Examples of optimizing nerual networks using numpy
+2. Examples of optimizing nerual networks using PyTorch
+3. Examples of optimizing nerual networks using Tensorflow
+
