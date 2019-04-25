@@ -1,5 +1,5 @@
 # ATM-optimization-algorithm
-This is an optimization algorithm for high dimensional problems.
+An optimization algorithm for high dimensional problems, such as those found in machine learning and physical sciences.
 
 It is designed for minimizing functions which input a vector or parameters and output a single scalar value.
 Examples of how to use call the optimizer are in the file titled " Example_Of_Calling_Adaptive_To_Mode_Optimizer.py".
