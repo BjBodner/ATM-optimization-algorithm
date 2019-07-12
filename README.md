@@ -26,7 +26,7 @@ Note that the full experiment can take up to 15 minute to run.
 
 Please let me know if there are any issues with this test .
 
---
+---
 
 ## Goals for future versions:
 1. More customization: ability to set the number of iterations, set a threshold for convergence, number of parallelized function evaluations and more..
