@@ -5,9 +5,9 @@ the ATM algorithm is designed to minimize functions which input a vector or para
 Examples of how to use call the optimizer are in the file titled " Example_Of_Calling_Adaptive_To_Mode_Optimizer.py".
 We invite users to try to use this optimizer on different optimization problems and find as many issues as you can. This will help us improve the optimizer in future versions.
 
+---
 
-
-Future versions will (hopefully) include:
+## Goals for future versions:
 1. More customization: ability to set the number of iterations, set a threshold for convergence, number of parallelized function evaluations and more..
 2. Examples of optimizing nerual networks using numpy
 2. Examples of optimizing nerual networks using PyTorch
